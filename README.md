@@ -17,5 +17,6 @@ Ahora si el juego principal donde tienes que atrapar la fruta con la canasta evi
 
 
 Eso es todo por el momento, cuando pierdes te devuelve al menu de inicio para volver a jugar o ver ranking. Este pequeño proyecto quisiera continuarlo y darle mas vida con mas elementos incluidos como poderes temporales, talves niveles y otros items que caen tanto beneficiosos como dañinos al jugador. por mientras pueden descargarlo, probarlo y editarlo a su gusto.
+
 PUEDES PROBARLO SIN DESCARGAR NADA A TRAVES DE VERCEL (link below):
 https://simple-catch-game.vercel.app
